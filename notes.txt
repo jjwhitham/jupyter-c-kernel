@@ -1,0 +1,3 @@
+Install package as Python egg "jupyter-c-kernel-jw":
+(`pip list` will now show `jupyter-c-kernel  1.2.1      /home/jw/Documents/projects/jupyter-c-kernel/src/jupyter-c-kernel-jw`)
+    $ pip install -e git+git://github.com/jjwhitham/jupyter-c-kernel.git@master#egg=jupyter-c-kernel-jw
